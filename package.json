@@ -1,0 +1,24 @@
+{
+  "name": "karma-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start karma.conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akomlosi/karma-boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akomlosi/karma-boilerplate/issues"
+  },
+  "homepage": "https://github.com/akomlosi/karma-boilerplate#readme",
+  "devDependencies": {
+    "jasmine-core": "^2.5.2",
+    "karma-chrome-launcher": "^2.0.0",
+    "karma-jasmine": "^1.1.0"
+  }
+}
